@@ -41,7 +41,7 @@ const DisplayTodos = ({ taskList, setTaskList, save }) => {
         />
         <span
           style={{
-            fontSize: "18px",
+            fontSize: "1rem",
             fontFamily: "'Jost',sans-serif",
             fontWeight: "600",
             fontStyle: "italic",

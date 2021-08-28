@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   width: max(400px, 40vw);
-  height: 470px;
+  height: 400px;
   background: #dddddd;
   text-align: center;
   margin: auto;
@@ -51,7 +51,7 @@ body::before {
   padding: 1rem;
   align-items: center;
   border-radius: 10px;
-  width: 90%;
+  width: 88%;
 }
 .delete-icon {
   cursor: pointer;

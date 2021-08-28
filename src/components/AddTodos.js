@@ -42,7 +42,7 @@ function AddTodos() {
           label="Add a To-do Task!"
           variant="outlined"
           value={input}
-          style={{ width: "280px" }}
+          style={{ width: "250px" }}
           onChange={(event) => setInput(event.target.value)}
           inputRef={currentRef}
           onKeyDown={(e) => {
